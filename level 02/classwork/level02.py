@@ -1,4 +1,5 @@
-#gansxvaveba / da // shoris aris / yofs xolo // aris ramdenjer jdeba ert ricxvshi meore da tan rodesac or integers ertmanetze gavyoft pasuxi yoveltvis iqneba float magram // meshveobit chveuolebriv integeri gamodis
+#gansxvaveba / da // shoris aris / yofs xolo // aris ramdenjer jdeba ert ricxvshi meore 
+
 number1 = 100
 number2 = 10
 print(number1 + number2)
