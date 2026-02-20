@@ -7,17 +7,24 @@ country = "georgia"
 favorite_subject = "qartuli"
 print('Hello, my name is ' + name + ' ' + surname + ' and I am from ' + country + '. My favorite subject is ' + favorite_subject)
 
+
 #2
 group = "group 94"
 print('I am a student of ' + group)
+
+
 
 #3
 #1. writing- codis dawera
 #2. executing- es nishnavs programis gashvebas
 #3. debugging- erroris gasworeba
 
+
+
 #4 
 # debbuging- nishnavs programashi shecdomebis povnas da gasworebas
+
+
 
 #5 
 # shecdomebis gasworeba. 
@@ -35,7 +42,9 @@ print(academi)  # swori versia
 print(group)  # swori versia
 
 
-# yvela matematikur operaciaze 5-5 magaliti
+
+
+#6 yvela matematikur operaciaze 5-5 magaliti
 
 # mimatebis operacia
 print(5 + 5)
