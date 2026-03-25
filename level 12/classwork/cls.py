@@ -8,4 +8,3 @@
 #!=- ar udris
 #>=- metia an tolia
 #<=- naklebia an tolia
-print(False or True)
