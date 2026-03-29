@@ -16,8 +16,10 @@ while i < 5:
     print(i)
     i += 1
 # 0, 1, 2, 3, 4
-while password != "gojogojo":
-    password = input("enter your password: ")
+password = "gojogojo"
+under_pass = "enter your password: "
+while under_pass != password:
+    under_pass = input("enter your password: ")
     print("wrong password, try again")
-    password = input("enter your password: ")
+    under_pass = input("enter your password: ")
     print("welcome")
